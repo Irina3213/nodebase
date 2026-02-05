@@ -6,6 +6,7 @@
 // const json =JSON.parse(data);
 
 // console.log(data);
+//console.log(json[0].name);
 
 //------------------
 // import http from 'node:http';
